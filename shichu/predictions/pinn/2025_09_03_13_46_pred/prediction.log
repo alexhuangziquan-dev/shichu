@@ -1,0 +1,5 @@
+2025-09-03 13:46:01,798 - INFO - 使用设备: cuda
+2025-09-03 13:46:01,798 - INFO - 加载模型：./checkpoints\pinn\2025_09_03_13_41_pinn\final_2025_09_03_13_42_pinn.pth
+2025-09-03 13:46:02,153 - INFO - 可视化已保存: predictions\pinn\2025_09_03_13_46_pred\img_001_visualization.png
+2025-09-03 13:46:02,154 - INFO - 预测完成，结果保存到：predictions\pinn\2025_09_03_13_46_pred
+- NPY: predictions\pinn\2025_09_03_13_46_pred\img_001_force.npy
